@@ -20,7 +20,7 @@ Security within Microsoft 365 is not just about enabling features and controls; 
 
 ## Security Licensing
 
-With all of the Microsoft 365 services, many-core security components come with the standard licensing. Features, such as the **Security Defaults**, are included in core licenses; however, most advanced Security capabilities are not. These features are either available as separate add-on licenses or bundled into the either the **Enterprise Mobility + Security E3/A3/G3**, **Enterprise Mobility + Security E5/A5/G5**, **Microsoft 365 E3/A3/G3**, **Microsoft 365 E5/A5/G5**, and **Microsoft 365 E5/A5/G5 Security**.
+With all of the Microsoft 365 services, many-core security components come with the standard licensing. Features, such as the **Security Defaults**, are included in core licenses; however, most advanced Security capabilities are not. These features are either available as separate add-on licenses or bundled into the either the **Enterprise Mobility + Security E3/A3/G3**, **Enterprise Mobility + Security E5/A5/G5**, **Microsoft 365 E3/A3/G3**, **Microsoft 365 E5/A5/G5**, **Microsoft 365 E5/A5/G5 Security**, and **Microsoft 365 Business Premium**.
 
 ## Enabling the Security Defaults
 
